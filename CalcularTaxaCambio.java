@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main{
+public class CalcularTaxaCambio{
 
     // Calcula a taxa de cambio
     public static double valorConvertido(double taxa, double real) {
