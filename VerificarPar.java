@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class VerificarPar{
+public class Main{
 
     public static boolean verificarPar(int  numero) {
 
