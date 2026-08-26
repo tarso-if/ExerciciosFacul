@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main2{
+public class HoraTrabalhada{
     //Calculo de horas trabalhadas
     public static double somatorioSalario(double valorHora, double horasTrabalhadas){
         return(valorHora * horasTrabalhadas);
